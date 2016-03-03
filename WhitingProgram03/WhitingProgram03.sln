@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "WhitingProgram03", "WhitingProgram03\WhitingProgram03.cblproj", "{CCF0338A-F560-45E0-84F6-6BC8145CA731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCF0338A-F560-45E0-84F6-6BC8145CA731}.Debug|x86.ActiveCfg = Debug|x86
+		{CCF0338A-F560-45E0-84F6-6BC8145CA731}.Debug|x86.Build.0 = Debug|x86
+		{CCF0338A-F560-45E0-84F6-6BC8145CA731}.Release|x86.ActiveCfg = Release|x86
+		{CCF0338A-F560-45E0-84F6-6BC8145CA731}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

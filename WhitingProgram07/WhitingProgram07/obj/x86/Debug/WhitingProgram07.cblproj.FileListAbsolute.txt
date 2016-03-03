@@ -1,0 +1,4 @@
+\\labfiles\studentfolders\3\121863\my documents\visual studio 2012\Projects\WhitingProgram07\WhitingProgram07\bin\x86\Debug\WhitingProgram07.exe
+\\labfiles\studentfolders\3\121863\my documents\visual studio 2012\Projects\WhitingProgram07\WhitingProgram07\obj\x86\Debug\WhitingProgram07.exe
+C:\Users\121863\Desktop\WhitingProgram07\WhitingProgram07\obj\x86\Debug\WhitingProgram07.exe
+C:\Users\121863\Desktop\WhitingProgram07\WhitingProgram07\bin\x86\Debug\WhitingProgram07.exe

@@ -1,0 +1,4 @@
+C:\Users\121863\Desktop\WhitingProgram05\WhitingProgram05\bin\x86\Debug\WhitingProgram05.exe
+C:\Users\121863\Desktop\WhitingProgram05\WhitingProgram05\obj\x86\Debug\WhitingProgram05.exe
+\\LabFiles\StudentFolders\3\121863\My Documents\CS224\WhitingProgram05\WhitingProgram05\bin\x86\Debug\WhitingProgram05.exe
+\\LabFiles\StudentFolders\3\121863\My Documents\CS224\WhitingProgram05\WhitingProgram05\obj\x86\Debug\WhitingProgram05.exe

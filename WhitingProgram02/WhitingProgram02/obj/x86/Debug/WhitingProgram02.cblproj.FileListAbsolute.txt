@@ -1,0 +1,6 @@
+H:\CS224\WhitingProgram02\WhitingProgram02\bin\x86\Debug\WhitingProgram02.exe
+H:\CS224\WhitingProgram02\WhitingProgram02\obj\x86\Debug\WhitingProgram02.exe
+\\LabFiles\StudentFolders\3\121863\My Documents\CS224\WhitingProgram02\WhitingProgram02\bin\x86\Debug\WhitingProgram02.exe
+\\LabFiles\StudentFolders\3\121863\My Documents\CS224\WhitingProgram02\WhitingProgram02\obj\x86\Debug\WhitingProgram02.exe
+C:\MyFiles\WhitingProgram02\WhitingProgram02\bin\x86\Debug\WhitingProgram02.exe
+C:\MyFiles\WhitingProgram02\WhitingProgram02\obj\x86\Debug\WhitingProgram02.exe

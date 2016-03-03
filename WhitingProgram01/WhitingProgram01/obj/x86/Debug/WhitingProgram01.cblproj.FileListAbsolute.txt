@@ -1,0 +1,2 @@
+H:\CS224\WhitingProgram01\WhitingProgram01\bin\x86\Debug\WhitingProgram01.exe
+H:\CS224\WhitingProgram01\WhitingProgram01\obj\x86\Debug\WhitingProgram01.exe

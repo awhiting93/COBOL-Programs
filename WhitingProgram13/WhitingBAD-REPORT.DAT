@@ -1,0 +1,10 @@
+
+APRIL 27, 2015      12:46AM     CUSTOMER Report           Whiting     PAGE   1
+
+  ID #   CUSTOMER NAME                  MAX CREDIT   CREDIT STATUS      BALANCE
+  279    George the Greatest            $   11.00          EX          $    5.10
+CANNOT ADD CUSTOMER - A CUSTOMER WITH THIS ID ALREADY EXISTS
+  346                                   $     .00                      $     .
+CANNOT DELETE RECORD - NO RECORD WITH THIS ID EXISTS
+  428    AJ                             $55000.00          A           $60055.00
+UNSUCCESSFUL CHANGE - MAX CREDIT MUST BE FROM $0 - $60,000

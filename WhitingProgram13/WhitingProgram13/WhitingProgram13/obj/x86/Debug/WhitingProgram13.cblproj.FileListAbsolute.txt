@@ -1,0 +1,4 @@
+C:\Users\121863\Desktop\WhitingProgram13\WhitingProgram13\bin\x86\Debug\WhitingProgram13.exe
+C:\Users\121863\Desktop\WhitingProgram13\WhitingProgram13\obj\x86\Debug\WhitingProgram13.exe
+F:\WhitingProgram13\WhitingProgram13\WhitingProgram13\bin\x86\Debug\WhitingProgram13.exe
+F:\WhitingProgram13\WhitingProgram13\WhitingProgram13\obj\x86\Debug\WhitingProgram13.exe
