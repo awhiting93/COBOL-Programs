@@ -1,0 +1,2 @@
+C:\Users\awhiting18\Desktop\COBOL - VIN\WhitingProgram12\WhitingProgram12\bin\x86\Debug\WhitingProgram12.exe
+C:\Users\awhiting18\Desktop\COBOL - VIN\WhitingProgram12\WhitingProgram12\obj\x86\Debug\WhitingProgram12.exe
